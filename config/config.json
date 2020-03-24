@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "ccm",
-    "password": "ccmadmin",
-    "database": "ccm",
-    "host": "127.0.0.1",
+    "username": "chskrxddubmrwn",
+    "password": "6d5bc16840d695e55a873296c69a9e0b21c6ad4c2257bf7dba3a9f7f0f20cd8c",
+    "database": "d3agj9lq222dk",
+    "host": "ec2-34-204-22-76.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
-    "username": "ccm",
-    "password": "ccmadmin",
-    "database": "ccm",
-    "host": "127.0.0.1",
+    "username": "chskrxddubmrwn",
+    "password": "6d5bc16840d695e55a873296c69a9e0b21c6ad4c2257bf7dba3a9f7f0f20cd8c",
+    "database": "d3agj9lq222dk",
+    "host": "ec2-34-204-22-76.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "ccm",
-    "password": "ccmadmin",
-    "database": "ccm",
-    "host": "127.0.0.1",
+    "username": "chskrxddubmrwn",
+    "password": "6d5bc16840d695e55a873296c69a9e0b21c6ad4c2257bf7dba3a9f7f0f20cd8c",
+    "database": "d3agj9lq222dk",
+    "host": "ec2-34-204-22-76.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
